@@ -1,4 +1,5 @@
-# bloc_practice
+# Bloc Home Screen
+<img width="397" height="885" alt="Screenshot 2025-11-06 170552" src="https://github.com/user-attachments/assets/0fb41f5a-55a3-42ef-8431-2a557bce30b6" />
 
 A new Flutter project.
 
